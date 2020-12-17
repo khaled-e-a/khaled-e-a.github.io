@@ -7,9 +7,9 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Khaled E. Ahmed"
+title                    : "Khaled's webpage"
 title_separator          : "-"
-name                     : &name "Khaled"
+name                     : &name "Khaled Ahmed"
 description              : &description "Khaled's personal website"
 url                      : khaled-e-a.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -80,7 +80,7 @@ analytics:
 
 # Site Author
 author:
-  name             : "Khaled"
+  name             : "Khaled Ahmed"
   avatar           : "profile.jpeg"
   bio              : "PhD student at The University of British Columbia"
   location         : "Vancouver BC, Canada"
