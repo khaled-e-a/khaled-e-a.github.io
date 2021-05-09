@@ -5,10 +5,10 @@ permalink: /publications/
 author_profile: true
 ---
 
-<img src="https://assets-cdn.github.com/images/modules/logos_page/GitHub-Mark.png"
-  width="128"
-  height="128"
-  style="float:left;"> 
+<img src="../images/android_guy.png"
+width="128"
+height="128"
+style="float:left;"> 
 **Khaled Ahmed**, Mieszko Lis, and Julia Rubin. [MANDOLINE: Dynamic Slicing of Android Applications with Trace-Based Alias Analysis.](https://www.ece.ubc.ca/~mjulia/publications/Mandoline_2021.pdf) IEEE International Conference on Software Testing, Verification and Validation (ICST), **Distinguished Paper Award**, 2021 (28% acceptance rate)
 
 
@@ -29,17 +29,13 @@ Mahmoud A Elmohr, Mostafa A Saleh, Ahmed S Eissa, **Khaled E Ahmed**, Mohammed M
 **Khaled E Ahmed**, Kareem M Attiah, Ahmed S Eltrass, "Multiple Signal Classification Algorithm Compensated by Extended Kalman Particle Filtering for Wi-Fi Through Wall Multi-Target Tracking." The IEEE-APS Topical Conference on Antennas and Propagation in Wireless Communications (APWC), 2016
 
 
-SHA-3 Instruction Set Extension for A 32-bit RISC processor architecture
-Authors
-Ahmed S Eissa, Mahmoud A Elmohr, Mostafa A Saleh, Khaled E Ahmed, Mohammed M Farag
-Publication date
-2016/7/6
-Conference
-2016 IEEE 27th International Conference on Application-specific Systems, Architectures and Processors (ASAP)
+Ahmed S Eissa, Mahmoud A Elmohr, Mostafa A Saleh, **Khaled E Ahmed**, Mohammed M Farag, "SHA-3 Instruction Set Extension for A 32-bit RISC Processor Architecture." The IEEE 27th International Conference on Application-specific Systems, Architectures and Processors (ASAP), 2016
+
+
 
 MOSIC: A new ordering for OSIC MIMO detection
 Authors
-Mostafa Medra, Khaled E Ahmed, Timothy N Davidson
+Mostafa Medra, **Khaled E Ahmed**, Timothy N Davidson
 Publication date
 2016/7/3
 Conference
@@ -49,7 +45,7 @@ Conference
 UBC eLink
 Overloaded CDMA interconnect for Network-on-Chip (OCNoC)
 Authors
-Khaled E Ahmed, Mohamed R Rizk, Mohammed M Farag
+**Khaled E Ahmed**, Mohamed R Rizk, Mohammed M Farag
 Publication date
 2016
 Conference
@@ -58,7 +54,7 @@ Conference
 
 Parallel overloaded CDMA interconnect (OCI) bus architecture for on-chip communications
 Authors
-Khaled E Ahmed, Mohammed M Farag
+**Khaled E Ahmed**, Mohammed M Farag
 Publication date
 2015/12/6
 Conference
@@ -66,7 +62,7 @@ Conference
 
 Hardware/software co-design of a dynamically configurable SHA-3 System-on-Chip (SoC)
 Authors
-Khaled E Ahmed, Mohammed M Farag
+**Khaled E Ahmed**, Mohammed M Farag
 Publication date
 2015/12/6
 Conference
@@ -74,7 +70,7 @@ Conference
 
 Enhanced overloaded CDMA interconnect (OCI) bus architecture for on-chip communication
 Authors
-Khaled E Ahmed, Mohammed M Farag
+**Khaled E Ahmed**, Mohammed M Farag
 Publication date
 2015/8/26
 Conference
@@ -83,7 +79,7 @@ Conference
 
 Overloaded CDMA bus topology for MPSoC interconnect
 Authors
-Khaled E Ahmed, Mohammed M Farag
+**Khaled E Ahmed**, Mohammed M Farag
 Publication date
 2014/12/8
 Conference
