@@ -7,14 +7,16 @@ author_profile: true
 
 <img src="../images/android_guy.png"
 width="32"
-height="32"> &nbsp;&nbsp; ⇨ Android App Analysis
+height="32"> &nbsp;&nbsp; ⇨ Android App Analysis &nbsp;&nbsp;
 <img src="../images/fpga.jpg"
 width="32"
-height="32"> &nbsp;&nbsp; ⇨ Digital Hardware Design
+height="32"> &nbsp;&nbsp; ⇨ Digital Hardware Design &nbsp;&nbsp;
 <img src="../images/wifi-icon.png"
 width="32"
 height="32"> &nbsp;&nbsp; ⇨ Digital Communications
 
+
+***
 
 
 <img src="../images/android_guy.png"
