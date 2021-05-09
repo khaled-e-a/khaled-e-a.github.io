@@ -8,49 +8,59 @@ author_profile: true
 <img src="../images/android_guy.png"
 width="32"
 height="32"
-style="float:left;"> 
+style="float:left;"> &nbsp;&nbsp; Android App Analysis
+<img src="../images/fpga.jpg"
+width="32"
+height="32"
+style="float:left;"> &nbsp;&nbsp; Digital Hardware Design
+
+
+<img src="../images/android_guy.png"
+width="32"
+height="32"
+style="float:left;"> &nbsp;&nbsp; 
 **Khaled Ahmed**, Mieszko Lis, and Julia Rubin. [MANDOLINE: Dynamic Slicing of Android Applications with Trace-Based Alias Analysis.](https://www.ece.ubc.ca/~mjulia/publications/Mandoline_2021.pdf) IEEE International Conference on Software Testing, Verification and Validation (ICST), **Distinguished Paper Award**, 2021 (28% acceptance rate)
 
 
 <img src="../images/android_guy.png"
 width="32"
 height="32"
-style="float:left;"> 
+style="float:left;"> &nbsp;&nbsp;
 Michael Cao, Sahar Badihi, **Khaled Ahmed**, Peiyu Xiong, and Julia Rubin. [On Benign Features in Malware Detection.](https://www.ece.ubc.ca/~mjulia/publications/On_Benign_Features_in_Malware_Detection_2020.pdf) The 35th IEEE/ACM International Conference on Automated Software Engineering (ASE), short paper, 2020.
 
 
 <img src="../images/fpga.jpg"
 width="32"
 height="32"
-style="float:left;"> 
+style="float:left;"> &nbsp;&nbsp;
 **Khaled E Ahmed**, Mohamed R Rizk, Mohammed M Farag, "Overloaded CDMA Crossbar For Network-on-Chip", IEEE Transactions on Very Large Scale Integration (VLSI) Systems, 2017
 
 
 <img src="../images/fpga.jpg"
 width="32"
 height="32"
-style="float:left;"> 
+style="float:left;"> &nbsp;&nbsp;
 Mahmoud A Elmohr, Mostafa A Saleh, Ahmed S Eissa, **Khaled E Ahmed**, Mohammed M Farag, "Hardware Implementation of a SHA-3 Application-Specific Instruction Set Processor." The 28th International Conference on Microelectronics (ICM), 2016.
 
 
 <img src="../images/fpga.jpg"
 width="32"
 height="32"
-style="float:left;"> 
+style="float:left;"> &nbsp;&nbsp;
 **Khaled E Ahmed**, Mohamed R Rizk, Mohammed M Farag, "Aggregated CDMA Crossbar For Network-on-Chip.", The 28th International Conference on Microelectronics (ICM), 2016
 
 
 <img src="../images/fpga.jpg"
 width="32"
 height="32"
-style="float:left;"> 
+style="float:left;"> &nbsp;&nbsp;
 **Khaled E Ahmed**, Kareem M Attiah, Ahmed S Eltrass, "Multiple Signal Classification Algorithm Compensated by Extended Kalman Particle Filtering for Wi-Fi Through Wall Multi-Target Tracking." The IEEE-APS Topical Conference on Antennas and Propagation in Wireless Communications (APWC), 2016
 
 
 <img src="../images/fpga.jpg"
 width="32"
 height="32"
-style="float:left;"> 
+style="float:left;"> &nbsp;&nbsp;
 Ahmed S Eissa, Mahmoud A Elmohr, Mostafa A Saleh, **Khaled E Ahmed**, Mohammed M Farag, "SHA-3 Instruction Set Extension for A 32-bit RISC Processor Architecture." The IEEE 27th International Conference on Application-specific Systems, Architectures and Processors (ASAP), 2016
 
 
@@ -58,14 +68,14 @@ Ahmed S Eissa, Mahmoud A Elmohr, Mostafa A Saleh, **Khaled E Ahmed**, Mohammed M
 <img src="../images/fpga.jpg"
 width="32"
 height="32"
-style="float:left;"> 
+style="float:left;"> &nbsp;&nbsp;
 Mostafa Medra, **Khaled E Ahmed**, Timothy N Davidson, "MOSIC: A New Ordering for OSIC MIMO Detection", IEEE 17th International Workshop on Signal Processing Advances in Wireless Communications (SPAWC), 2016
 
 
 <img src="../images/fpga.jpg"
 width="32"
 height="32"
-style="float:left;"> 
+style="float:left;"> &nbsp;&nbsp;
 **Khaled E Ahmed**, Mohamed R Rizk, Mohammed M Farag, "Overloaded CDMA Interconnect for Network-on-Chip (OCNoC)." The International Conference on ReConFigurable Computing and FPGAs (ReConFig), 2016
 
 
@@ -73,7 +83,7 @@ style="float:left;">
 <img src="../images/fpga.jpg"
 width="32"
 height="32"
-style="float:left;"> 
+style="float:left;"> &nbsp;&nbsp;
 **Khaled E Ahmed**, Mohammed M Farag, "Parallel Overloaded CDMA Interconnect (OCI) Bus Architecture For On-Chip Communications." The IEEE International Conference on Electronics, Circuits, and Systems (ICECS), 2015
 
 
@@ -81,7 +91,7 @@ style="float:left;">
 <img src="../images/fpga.jpg"
 width="32"
 height="32"
-style="float:left;"> 
+style="float:left;"> &nbsp;&nbsp;
 **Khaled E Ahmed**, Mohammed M Farag, "Hardware/Software Co-Design of a Dynamically Configurable SHA-3 System-on-Chip (SoC)."
 The IEEE International Conference on Electronics, Circuits, and Systems (ICECS), 2015
 
@@ -90,7 +100,7 @@ The IEEE International Conference on Electronics, Circuits, and Systems (ICECS),
 <img src="../images/fpga.jpg"
 width="32"
 height="32"
-style="float:left;"> 
+style="float:left;"> &nbsp;&nbsp;
 **Khaled E Ahmed**, Mohammed M Farag, "Enhanced Overloaded CDMA Interconnect (OCI) Bus Architecture For On-Chip Communication."
 The IEEE 23rd Annual Symposium on High-Performance Interconnects, 2015
 
@@ -98,5 +108,5 @@ The IEEE 23rd Annual Symposium on High-Performance Interconnects, 2015
 <img src="../images/fpga.jpg"
 width="32"
 height="32"
-style="float:left;"> 
+style="float:left;"> &nbsp;&nbsp;
 **Khaled E Ahmed**, Mohammed M Farag, "Overloaded CDMA Bus Topology For MPSoC Interconnect." The International Conference on ReConFigurable Computing and FPGAs (ReConFig), 2014
