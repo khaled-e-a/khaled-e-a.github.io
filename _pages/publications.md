@@ -5,4 +5,5 @@ permalink: /publications/
 author_profile: true
 ---
 
-@@include[pub1](../_publications/2009-10-01-paper-title-number-1.md)
+Khaled Ahmed, Mieszko Lis, and Julia Rubin. [MANDOLINE: Dynamic Slicing of Android Applications with Trace-Based Alias Analysis.](https://www.ece.ubc.ca/~mjulia/publications/Mandoline_2021.pdf) IEEE International Conference on Software Testing, Verification and Validation (ICST), Distinguished Paper Award, 2021 (28% acceptance rate)
+
