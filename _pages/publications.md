@@ -8,11 +8,20 @@ author_profile: true
 <img src="../images/android_guy.png"
 width="32"
 height="32"
-style="float:left;"> &nbsp;&nbsp; Android App Analysis
+style="float:left;"> &nbsp;&nbsp; ⇨ Android App Analysis
+
+
 <img src="../images/fpga.jpg"
 width="32"
 height="32"
-style="float:left;"> &nbsp;&nbsp; Digital Hardware Design
+style="float:left;"> &nbsp;&nbsp; ⇨ Digital Hardware Design
+
+
+<img src="../images/wifi-icon.png"
+width="32"
+height="32"
+style="float:left;"> &nbsp;&nbsp; ⇨ Digital Communications
+
 
 
 <img src="../images/android_guy.png"
@@ -50,7 +59,7 @@ style="float:left;"> &nbsp;&nbsp;
 **Khaled E Ahmed**, Mohamed R Rizk, Mohammed M Farag, "Aggregated CDMA Crossbar For Network-on-Chip.", The 28th International Conference on Microelectronics (ICM), 2016
 
 
-<img src="../images/fpga.jpg"
+<img src="../images/wifi-icon.png"
 width="32"
 height="32"
 style="float:left;"> &nbsp;&nbsp;
@@ -65,7 +74,7 @@ Ahmed S Eissa, Mahmoud A Elmohr, Mostafa A Saleh, **Khaled E Ahmed**, Mohammed M
 
 
 
-<img src="../images/fpga.jpg"
+<img src="../images/wifi-icon.png"
 width="32"
 height="32"
 style="float:left;"> &nbsp;&nbsp;
