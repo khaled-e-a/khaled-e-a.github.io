@@ -23,6 +23,13 @@ height="32"> &nbsp;&nbsp; ⇨ Digital Communications
 width="32"
 height="32"
 style="float:left;"> &nbsp;&nbsp; 
+**Khaled Ahmed**, Mieszko Lis, and Julia Rubin. [Slicer4J: A Dynamic Slicer For Java.](https://people.ece.ubc.ca/mjulia/publications/Slicer4J_2021.pdf) ACM Joint European Software Engineering Conference and Symposium on the Foundations of Software Engineering (ESEC/FSE), tools track, 2021 <[Code](https://github.com/resess/Slicer4J), [Video](https://youtu.be/mn7z6I-WyH4)>
+
+
+<img src="../images/android_guy.png"
+width="32"
+height="32"
+style="float:left;"> &nbsp;&nbsp; 
 **Khaled Ahmed**, Mieszko Lis, and Julia Rubin. [MANDOLINE: Dynamic Slicing of Android Applications with Trace-Based Alias Analysis.](https://www.ece.ubc.ca/~mjulia/publications/Mandoline_2021.pdf) IEEE International Conference on Software Testing, Verification and Validation (ICST), **Distinguished Paper Award**, 2021 (28% acceptance rate) <[Code](https://github.com/resess/Mandoline), [Slides](../files/ICST_flat_animation.pdf), [Video](https://www.youtube.com/watch?v=hHSEy6EcdsA)>
 
 
