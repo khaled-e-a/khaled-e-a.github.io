@@ -83,8 +83,8 @@ author:
   name             : "Khaled Ahmed"
   avatar           : "profile.jpeg"
   bio              : "Ph.D. candidate at The University of British Columbia"
-  location         : "Vancouver BC, Canada"
-  employer         :
+  location         : "Vancouver, BC, Canada"
+  employer         : "https://ece.ubc.ca"
   pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.ca/citations?hl=en&pli=1&user=zIiFNmYAAAAJ"
   email            : "khaledea@ece.ubc.ca, k.e.elsayed@gmail.com"
