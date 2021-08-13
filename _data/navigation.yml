@@ -9,5 +9,11 @@ main:
   - title: "Teaching "
     url: /teaching/
 
-  - title: "Gallery"
-    url: /portfolio/
+  - title: "Experience"
+    url: /experience/
+
+  - title: "Awards & Honors"
+    url: /honors/
+
+  - title: "Talks"
+    url: /talks/
