@@ -1,15 +1,13 @@
 ---
 layout: archive
-title: "Honors"
+title: "Talks"
 permalink: /honors/
 author_profile: true
 ---
 
-# Awards
+- [Slicer4J: A Dynamic Slicer For Java.](https://people.ece.ubc.ca/mjulia/publications/Slicer4J_2021.pdf) ACM Joint European Software Engineering Conference and Symposium on the Foundations of Software Engineering (ESEC/FSE), tools track, 2021 <iframe width="560" height="315" src="https://youtu.be/mn7z6I-WyH4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-- Received the Natural Sciences and Engineering Research Council of Canada Graduate Scholarship – Doctoral (NSERC CGS-D) award
-- Received the four year fellowship (FYF) from The University of British Columbia, Canada.
 
-# Honors
-- Ranked the second amongst all Bachelors Students of the Electrical and Computer Engineering Department, Alexandria University, 2014.
-
+- [MANDOLINE: Dynamic Slicing of Android Applications with Trace-Based Alias Analysis.](https://www.ece.ubc.ca/~mjulia/publications/Mandoline_2021.pdf) IEEE International Conference on Software Testing, Verification and Validation (ICST), **Distinguished Paper Award**, 2021 <iframe width="560" height="315" src="https://www.youtube.com/watch?v=hHSEy6EcdsA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+ 
+ 
