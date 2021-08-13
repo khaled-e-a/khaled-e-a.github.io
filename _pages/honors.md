@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Honors"
+title: ""
 permalink: /honors/
 author_profile: true
 ---
