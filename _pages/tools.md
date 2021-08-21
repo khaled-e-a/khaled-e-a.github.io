@@ -5,6 +5,8 @@ permalink: /tools/
 author_profile: true
 ---
 
+# Slicer4J: A Dynamic Slicer For Java
+
 
 <img src="../images/slicer4j_logo.png"
 width="256"
@@ -18,6 +20,8 @@ If you use this tool, please cite:
 **Khaled Ahmed**, Mieszko Lis, and Julia Rubin. [Slicer4J: A Dynamic Slicer For Java.](https://people.ece.ubc.ca/mjulia/publications/Slicer4J_2021.pdf) ACM Joint European Software Engineering Conference and Symposium on the Foundations of Software Engineering (ESEC/FSE), tools track, 2021 <[Code](https://github.com/resess/Slicer4J), [Video](https://youtu.be/mn7z6I-WyH4)>
 
 ---
+
+# Mandoline: Dynamic Slicing of Android Applications with Trace-Based Alias Analysis
 
 <img src="../images/mandoline_Logo.png"
 width="256"
