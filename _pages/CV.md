@@ -5,4 +5,4 @@ permalink: /CV/
 author_profile: true
 ---
 
-<p>CV <a href="../files/CV_khaled.pdf">My CV</a>.</p>
+<iframe src="../files/CV_Khaled.p" height="200" width="300"></iframe>
