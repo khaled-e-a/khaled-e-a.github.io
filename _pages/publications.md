@@ -32,7 +32,7 @@ Sahar Badihi, **Khaled Ahmed**, Yi Li, and Julia Rubin. Responsibility in Contex
 width="32"
 height="32"
 style="float:left;"> &nbsp;&nbsp; 
-Michael Cao*, **Khaled Ahmed***, and Julia Rubin. Spoiled Apples Ruin the Bunch: Anatomy of Google Play Malware. The 44th ACM/IEEE International Conference on Software Engineering (ICSE), 2022 (26% acceptance rate) ***Equal Contribution**
+Michael Cao\*, **Khaled Ahmed\***, and Julia Rubin. Spoiled Apples Ruin the Bunch: Anatomy of Google Play Malware. The 44th ACM/IEEE International Conference on Software Engineering (ICSE), 2022 (26% acceptance rate) **\*Equal Contribution**
 
 
 
