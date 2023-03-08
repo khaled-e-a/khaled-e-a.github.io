@@ -26,7 +26,7 @@ height="32"> &nbsp;&nbsp; ⇨ Digital Communications
 width="32"
 height="32"
 style="float:left;"> &nbsp;&nbsp; 
-Sahar Badihi, **Khaled Ahmed**, Yi Li, Julia Rubin. Responsibility in Context: On Applicability of Slicing in Semantic Regression Analysis. The 45th IEEE/ACM International Conference on Software Engineering (ICSE), 2023 (26% acceptance rate).
+Sahar Badihi, **Khaled Ahmed**, Yi Li, and Julia Rubin. Responsibility in Context: On Applicability of Slicing in Semantic Regression Analysis. The 45th IEEE/ACM International Conference on Software Engineering (ICSE), 2023 (26% acceptance rate).
 
 <img src="../images/android_guy.png"
 width="32"
