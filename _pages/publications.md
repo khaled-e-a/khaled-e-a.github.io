@@ -22,16 +22,22 @@ height="32"> &nbsp;&nbsp; ⇨ Digital Communications
 
 ***
 
+<img src="../images/android_guy.png"
+width="32"
+height="32"
+style="float:left;"> &nbsp;&nbsp;
+**Khaled Ahmed**, Yingying Wang, Mieszko Lis, and Julia Rubin. ViaLin: Path-Aware Dynamic Taint Analysis for Android. The ACM Joint European Software Engineering Conference and Symposium on the Foundations of Software Engineering (FSE), 2023 (26% acceptance rate).
+
 <img src="../images/coding.png"
 width="32"
 height="32"
-style="float:left;"> &nbsp;&nbsp; 
+style="float:left;"> &nbsp;&nbsp;
 Sahar Badihi, **Khaled Ahmed**, Yi Li, and Julia Rubin. Responsibility in Context: On Applicability of Slicing in Semantic Regression Analysis. The 45th IEEE/ACM International Conference on Software Engineering (ICSE), 2023 (26% acceptance rate).
 
 <img src="../images/android_guy.png"
 width="32"
 height="32"
-style="float:left;"> &nbsp;&nbsp; 
+style="float:left;"> &nbsp;&nbsp;
 Michael Cao\*, **Khaled Ahmed\***, and Julia Rubin. Spoiled Apples Ruin the Bunch: Anatomy of Google Play Malware. The 44th ACM/IEEE International Conference on Software Engineering (ICSE), 2022 (26% acceptance rate) **\*Equal Contribution**
 
 
@@ -39,14 +45,14 @@ Michael Cao\*, **Khaled Ahmed\***, and Julia Rubin. Spoiled Apples Ruin the Bunc
 <img src="../images/coding.png"
 width="32"
 height="32"
-style="float:left;"> &nbsp;&nbsp; 
+style="float:left;"> &nbsp;&nbsp;
 **Khaled Ahmed**, Mieszko Lis, and Julia Rubin. [Slicer4J: A Dynamic Slicer For Java.](https://people.ece.ubc.ca/mjulia/publications/Slicer4J_2021.pdf) ACM Joint European Software Engineering Conference and Symposium on the Foundations of Software Engineering (ESEC/FSE), tools track, 2021 <[Code](https://github.com/resess/Slicer4J), [Video](https://youtu.be/mn7z6I-WyH4)>
 
 
 <img src="../images/android_guy.png"
 width="32"
 height="32"
-style="float:left;"> &nbsp;&nbsp; 
+style="float:left;"> &nbsp;&nbsp;
 **Khaled Ahmed**, Mieszko Lis, and Julia Rubin. [MANDOLINE: Dynamic Slicing of Android Applications with Trace-Based Alias Analysis.](https://www.ece.ubc.ca/~mjulia/publications/Mandoline_2021.pdf) IEEE International Conference on Software Testing, Verification and Validation (ICST), **Distinguished Paper Award**, 2021 (28% acceptance rate) <[Code](https://github.com/resess/Mandoline), [Slides](../files/ICST_flat_animation.pdf), [Video](https://www.youtube.com/watch?v=hHSEy6EcdsA)>
 
 
