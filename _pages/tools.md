@@ -18,7 +18,7 @@ In this paper, we address this problem by proposing a dynamic taint analysis tec
 
 You can read ViaLin's paper [here](https://people.ece.ubc.ca/mjulia/publications/ViaLin_FSE2023.pdf) and access the online appendix [here](https://resess.github.io/artifacts/ViaLin/).
 
-The code and benchmarks are hosted on [github](https://github.com/resess/Slicer4J), contributions to the tool are most welcome!
+The code and benchmarks are hosted on [github](https://github.com/resess/ViaLin), contributions to the tool are most welcome!
 
 
 If you use this tool, please cite:
