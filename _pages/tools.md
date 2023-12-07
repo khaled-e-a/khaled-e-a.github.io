@@ -9,6 +9,7 @@ author_profile: true
 
 
 <img src="../images/vialin.png"
+width="160"
 height="220"
 style="display: block; margin: 0 auto">
 
