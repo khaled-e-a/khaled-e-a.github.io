@@ -14,7 +14,7 @@ redirect_from:
 ### Pursuing Ph.D. in Computer Engineering at the University of British Columbia, Vancouver
 - Static and dynamic program analysis, security analysis, and malware detection.
 
-### M.Sc. and B.Sc. in Electrical Engineering from Alexandria University, Egypt
+### Obtained M.Sc. and B.Sc. in Electrical Engineering from Alexandria University, Egypt
 - FPGAs, computer architecture, and high-level synthesis.
 
 
