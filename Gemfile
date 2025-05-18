@@ -10,6 +10,7 @@ source "https://rubygems.org"
 # Happy Jekylling!
 
 gem "github-pages", group: :jekyll_plugins
+gem "commonmarker", "~> 0.17.13"
 
 # If you want to use Jekyll native, uncomment the line below.
 # To upgrade, run `bundle update`.
