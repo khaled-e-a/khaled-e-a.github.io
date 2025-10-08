@@ -5,11 +5,11 @@ permalink: /publications/
 author_profile: true
 ---
 
-- LLM and AI - <img src="../images/llm_logo.jpg" width="32" height="32">
-- Android App Analysis - <img src="../images/android_guy.png" width="32" height="32">
-- Software Development - <img src="../images/coding.png" width="32" height="32">
-- Digital Hardware Design - <img src="../images/fpga_2.png" width="32" height="32">
-- Digital Communications - <img src="../images/wifi-icon.png" width="32" height="32">
+- LLM and AI < <img src="../images/llm_logo.jpg" width="32" height="32"> >
+- Android App Analysis < <img src="../images/android_guy.png" width="32" height="32"> >
+- Software Development < <img src="../images/coding.png" width="32" height="32"> >
+- Digital Hardware Design < <img src="../images/fpga_2.png" width="32" height="32"> >
+- Digital Communications < <img src="../images/wifi-icon.png" width="32" height="32"> >
 
 
 ***
