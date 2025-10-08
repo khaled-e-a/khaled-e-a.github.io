@@ -31,7 +31,7 @@ style="float:left;"> &nbsp;&nbsp;
 width="32"
 height="32"
 style="float:left;"> &nbsp;&nbsp;
-Sahar Badihi, **Khaled Ahmed**, Yi Li, and Julia Rubin. Responsibility in Context: On Applicability of Slicing in Semantic Regression Analysis. The 45th IEEE/ACM International Conference on Software Engineering (ICSE), 2023 (26% acceptance rate).
+Sahar Badihi, **Khaled Ahmed**, Yi Li, and Julia Rubin. [Responsibility in Context: On Applicability of Slicing in Semantic Regression Analysis](../files/ResponsibilityinContext_ICSE2023.pdf). The 45th IEEE/ACM International Conference on Software Engineering (ICSE), 2023 (26% acceptance rate). <[Code](https://github.com/resess/InPreSS)>
 
 <img src="../images/fpga_2.png"
 width="32"
@@ -43,7 +43,7 @@ Mohammed Farag and **Khaled Ahmed**. Aggregated CDMA Crossbar with Hybrid ARQ fo
 width="32"
 height="32"
 style="float:left;"> &nbsp;&nbsp;
-Michael Cao\*, **Khaled Ahmed\***, and Julia Rubin. Rotten Apples Spoil the Bunch: An Anatomy of Google Play Malware. The 44th ACM/IEEE International Conference on Software Engineering (ICSE), 2022 (26% acceptance rate) **\*Equal Contribution**
+Michael Cao\*, **Khaled Ahmed\***, and Julia Rubin. [Rotten Apples Spoil the Bunch: An Anatomy of Google Play Malware](../files/GooglePlayMalware_2022.pdf). The 44th ACM/IEEE International Conference on Software Engineering (ICSE), 2022 (26% acceptance rate) **\*Equal Contribution** <[Code](https://resess.github.io/artifacts/GooglePlayMalwareAnalysis/)>
 
 
 
