@@ -5,22 +5,36 @@ permalink: /publications/
 author_profile: true
 ---
 
+<img src="../images/llm_logo.png"
+width="32"
+height="32"> &nbsp;&nbsp; ⇨ LLM and AI Research
+
+
 <img src="../images/android_guy.png"
 width="32"
-height="32"> &nbsp;&nbsp; ⇨ Android App Analysis &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+height="32"> &nbsp;&nbsp; ⇨ Android App Analysis
+
 <img src="../images/coding.png"
 width="32"
-height="32"> &nbsp;&nbsp; ⇨ Software Development &nbsp;&nbsp;
+height="32"> &nbsp;&nbsp; ⇨ Software Development
 
 <img src="../images/fpga_2.png"
 width="32"
-height="32"> &nbsp;&nbsp; ⇨ Digital Hardware Design &nbsp;&nbsp;
+height="32"> &nbsp;&nbsp; ⇨ Digital Hardware Design
+
 <img src="../images/wifi-icon.png"
 width="32"
 height="32"> &nbsp;&nbsp; ⇨ Digital Communications
 
 
 ***
+
+
+<img src="../images/llm_logo.png"
+width="32"
+height="32"
+style="float:left;"> &nbsp;&nbsp;
+**Khaled Ahmed**, Jialing Song, Boqi Chen, Ou Wei, Bingzhou Zheng. MCeT: Behavioral Model Correctness Evaluation using Large Language Models. ACM / IEEE 28th International Conference on Model Driven Engineering Languages and Systems (MODELS), 2025 (25% acceptance rate).
 
 <img src="../images/android_guy.png"
 width="32"
