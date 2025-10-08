@@ -33,11 +33,17 @@ height="32"
 style="float:left;"> &nbsp;&nbsp;
 Sahar Badihi, **Khaled Ahmed**, Yi Li, and Julia Rubin. Responsibility in Context: On Applicability of Slicing in Semantic Regression Analysis. The 45th IEEE/ACM International Conference on Software Engineering (ICSE), 2023 (26% acceptance rate).
 
+<img src="../images/fpga_2.png"
+width="32"
+height="32"
+style="float:left;"> &nbsp;&nbsp;
+Mohammed Farag and **Khaled Ahmed**. Aggregated CDMA Crossbar with Hybrid ARQ for NoCs. IEEE Access, 2022.
+
 <img src="../images/android_guy.png"
 width="32"
 height="32"
 style="float:left;"> &nbsp;&nbsp;
-Michael Cao\*, **Khaled Ahmed\***, and Julia Rubin. Spoiled Apples Ruin the Bunch: Anatomy of Google Play Malware. The 44th ACM/IEEE International Conference on Software Engineering (ICSE), 2022 (26% acceptance rate) **\*Equal Contribution**
+Michael Cao\*, **Khaled Ahmed\***, and Julia Rubin. Rotten Apples Spoil the Bunch: An Anatomy of Google Play Malware. The 44th ACM/IEEE International Conference on Software Engineering (ICSE), 2022 (26% acceptance rate) **\*Equal Contribution**
 
 
 
