@@ -19,13 +19,13 @@ author_profile: true
 width="32"
 height="32"
 style="float:left;"> &nbsp;&nbsp;
-**Khaled Ahmed**, Jialing Song, Boqi Chen, Ou Wei, Bingzhou Zheng. MCeT: Behavioral Model Correctness Evaluation using Large Language Models. ACM / IEEE 28th International Conference on Model Driven Engineering Languages and Systems (MODELS), 2025 (25% acceptance rate).
+**Khaled Ahmed**, Jialing Song, Boqi Chen, Ou Wei, Bingzhou Zheng. [MCeT: Behavioral Model Correctness Evaluation using Large Language Models](https://arxiv.org/abs/2508.00630). ACM / IEEE 28th International Conference on Model Driven Engineering Languages and Systems (MODELS), 2025 (25% acceptance rate). <[Code](https://github.com/Huawei-TTE/MCeT)>
 
 <img src="../images/android_guy.png"
 width="32"
 height="32"
 style="float:left;"> &nbsp;&nbsp;
-**Khaled Ahmed**, Yingying Wang, Mieszko Lis, and Julia Rubin. ViaLin: Path-Aware Dynamic Taint Analysis for Android. The ACM Joint European Software Engineering Conference and Symposium on the Foundations of Software Engineering (FSE), 2023 (26% acceptance rate).
+**Khaled Ahmed**, Yingying Wang, Mieszko Lis, and Julia Rubin. [ViaLin: Path-Aware Dynamic Taint Analysis for Android](../files/ViaLin_FSE2023.pdf). The ACM Joint European Software Engineering Conference and Symposium on the Foundations of Software Engineering (FSE), 2023 (26% acceptance rate). <[Code](https://github.com/resess/ViaLin), [Video](https://2023.esec-fse.org/details/fse-2023-research-papers/89/ViaLin-Path-Aware-Dynamic-Taint-Analysis-for-Android)>
 
 <img src="../images/coding.png"
 width="32"
