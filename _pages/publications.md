@@ -5,24 +5,15 @@ permalink: /publications/
 author_profile: true
 ---
 
-<img src="../images/llm_logo.png"
+<img src="../images/llm_logo.jpg"
 width="32"
-height="32"> &nbsp;&nbsp; ⇨ LLM and AI Research
-
-
-<img src="../images/android_guy.png"
+height="32"> &nbsp;&nbsp; ⇨ LLM and AI Research,&nbsp;&nbsp;<img src="../images/android_guy.png"
 width="32"
-height="32"> &nbsp;&nbsp; ⇨ Android App Analysis
-
-<img src="../images/coding.png"
+height="32"> &nbsp;&nbsp; ⇨ Android App Analysis,&nbsp;&nbsp;<img src="../images/coding.png"
 width="32"
-height="32"> &nbsp;&nbsp; ⇨ Software Development
-
-<img src="../images/fpga_2.png"
+height="32"> &nbsp;&nbsp; ⇨ Software Development,&nbsp;&nbsp;<img src="../images/fpga_2.png"
 width="32"
-height="32"> &nbsp;&nbsp; ⇨ Digital Hardware Design
-
-<img src="../images/wifi-icon.png"
+height="32"> &nbsp;&nbsp; ⇨ Digital Hardware Design,&nbsp;&nbsp;<img src="../images/wifi-icon.png"
 width="32"
 height="32"> &nbsp;&nbsp; ⇨ Digital Communications
 
@@ -30,7 +21,7 @@ height="32"> &nbsp;&nbsp; ⇨ Digital Communications
 ***
 
 
-<img src="../images/llm_logo.png"
+<img src="../images/llm_logo.jpg"
 width="32"
 height="32"
 style="float:left;"> &nbsp;&nbsp;
