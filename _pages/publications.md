@@ -4,7 +4,7 @@ title: "Publications"
 permalink: /publications/
 author_profile: true
 ---
-- Award Wining Paper < <img src="../images/award.jpg" width="32" height="32"> >
+- Award Wining Paper < <img src="../images/award.jpg" width="30" height="30"> >
 - LLM and AI < <img src="../images/llm_logo.jpg" width="32" height="32"> >
 - Android App Analysis < <img src="../images/android_guy.png" width="32" height="32"> >
 - Software Development < <img src="../images/coding.png" width="32" height="32"> >
@@ -15,12 +15,12 @@ author_profile: true
 ***
 
 
-<img src="../images/award.jpg" width="32" height="32">
+<img src="../images/award.jpg" width="30" height="30" style="float:left;"> &nbsp;&nbsp;
 <img src="../images/llm_logo.jpg"
 width="32"
 height="32"
 style="float:left;"> &nbsp;&nbsp;
-**Khaled Ahmed**, Jialing Song, Boqi Chen, Ou Wei, Bingzhou Zheng. [MCeT: Behavioral Model Correctness Evaluation using Large Language Models](https://arxiv.org/abs/2508.00630). ACM / IEEE 28th International Conference on Model Driven Engineering Languages and Systems (MODELS), 2025 (25% acceptance rate). <[Code](https://github.com/Huawei-TTE/MCeT)>
+**Khaled Ahmed**, Jialing Song, Boqi Chen, Ou Wei, Bingzhou Zheng. [MCeT: Behavioral Model Correctness Evaluation using Large Language Models](https://arxiv.org/abs/2508.00630). ACM / IEEE 28th International Conference on Model Driven Engineering Languages and Systems (MODELS), **Distinguished Paper Award**,2025 (25% acceptance rate). <[Code](https://github.com/Huawei-TTE/MCeT)>
 
 <img src="../images/android_guy.png"
 width="32"
@@ -55,7 +55,7 @@ style="float:left;"> &nbsp;&nbsp;
 **Khaled Ahmed**, Mieszko Lis, and Julia Rubin. [Slicer4J: A Dynamic Slicer For Java.](https://people.ece.ubc.ca/mjulia/publications/Slicer4J_2021.pdf) ACM Joint European Software Engineering Conference and Symposium on the Foundations of Software Engineering (ESEC/FSE), tools track, 2021 <[Code](https://github.com/resess/Slicer4J), [Video](https://youtu.be/mn7z6I-WyH4)>
 
 
-<img src="../images/award.jpg" width="32" height="32">
+<img src="../images/award.jpg" width="30" height="30" style="float:left;"> &nbsp;&nbsp;
 <img src="../images/android_guy.png"
 width="32"
 height="32"
