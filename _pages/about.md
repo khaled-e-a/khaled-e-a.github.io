@@ -20,9 +20,9 @@ redirect_from:
 
 **Check the navigation bar above for more!**
 
-
+<!--
 <div class="iframe-container">
     <iframe src="https://www.revealedquran.com/embed/daily" width="100%" height="300" frameborder="0" style="border-radius: 1rem; background: transparent;"></iframe>
-</div>
-
+</div> -->
+Checkout this website, [lot's of cool info](https://www.miracles-of-quran.com/)
 
