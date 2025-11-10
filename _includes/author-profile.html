@@ -121,6 +121,9 @@
       {% if author.medium %}
               <li><a href="https://medium.com/{{ author.medium }}"><i class="fas fa-book-reader" aria-hidden="true"></i> Medium</a></li>
       {% endif %}
+      {% if author.substack %}
+              <li><a href="https://{{ author.substack }}.substack.com/"><i class="fas fa-envelope-open-text" aria-hidden="true"></i> Substack</a></li>
+      {% endif %}
     </ul>
   </div>
 </div>
