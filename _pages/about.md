@@ -34,5 +34,5 @@ Obtained M.Sc. and B.Sc. in Electrical Engineering from Alexandria University, E
 
 ---
 
-✋ Before you leave, checkout this website, [lot's of cool info](https://www.miracles-of-quran.com/)
+✋ Before you leave, checkout this website, [lots of cool info](https://www.miracles-of-quran.com/)
 
