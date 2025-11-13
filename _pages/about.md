@@ -9,7 +9,7 @@ redirect_from:
 ---
 
 ## News:
-- 👉 Checkout my new blog on [semantics and systems](https://khaledea.substack.com/)
+- 👉 Checkout my new blog on [semantics and systems](https://khaledea.substack.com/).
 - Our paper on using LLMs to evaluate behavioral models received the **distinguished paper award** at Models 2025.
 
 
@@ -27,5 +27,5 @@ redirect_from:
     <iframe src="https://www.revealedquran.com/embed/daily" width="100%" height="300" frameborder="0" style="border-radius: 1rem; background: transparent;"></iframe>
 </div> -->
 
-✋ Before you leave, checkout this website, [lots of cool info](https://www.miracles-of-quran.com/)
+✋ Before you leave, checkout this website, [lots of cool info](https://www.miracles-of-quran.com/).
 
