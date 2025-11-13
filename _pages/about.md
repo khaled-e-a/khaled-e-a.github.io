@@ -8,6 +8,8 @@ redirect_from:
   - /about.html
 ---
 
+**Checkout my new blog on [semantics and systems](https://khaledea.substack.com/)**
+
 ### Research Engineer at Huawei Canada, Waterloo
 - Formal methods and verification of generative large language models.
 
