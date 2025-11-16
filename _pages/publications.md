@@ -20,7 +20,7 @@ author_profile: true
 width="32"
 height="32"
 style="float:left;"> &nbsp;&nbsp;
-**Khaled Ahmed**, Jialing Song, Boqi Chen, Ou Wei, Bingzhou Zheng. [MCeT: Behavioral Model Correctness Evaluation using Large Language Models](https://arxiv.org/abs/2508.00630). ACM / IEEE 28th International Conference on Model Driven Engineering Languages and Systems (MODELS), **Distinguished Paper Award**,2025 (25% acceptance rate). <[Code](https://github.com/Huawei-TTE/MCeT)>
+**Khaled Ahmed**, Jialing Song, Boqi Chen, Ou Wei, Bingzhou Zheng. [MCeT: Behavioral Model Correctness Evaluation using Large Language Models](https://arxiv.org/abs/2508.00630). ACM / IEEE 28th International Conference on Model Driven Engineering Languages and Systems (MODELS), **Distinguished Paper Award**, 2025 (25% acceptance rate). <[Code](https://github.com/Huawei-TTE/MCeT)>
 
 <img src="../images/android_guy.png"
 width="32"
