@@ -5,6 +5,44 @@ permalink: /tools/
 author_profile: true
 ---
 
+# MCeT: Behavioral Model Correctness Evaluation using Large Language Models
+
+<img src="../images/mcet_cropped.png"
+width="260"
+style="display: block; margin: 0 auto">
+
+Behavioral model diagrams, e.g., sequence diagrams,
+are an essential form of documentation that are typically designed
+by system engineers from requirements documentation, either
+fully manually or assisted by design tools. With the growing use
+of Large Language Models (LLM) as AI modeling assistants,
+more automation will be involved in generating diagrams. This
+necessitates the advancement of automatic model correctness
+evaluation tools. Such a tool can be used to evaluate both
+manually and AI automatically generated models; to provide
+feedback to system engineers, and enable AI assistants to self-evaluate and self-enhance their generated models.
+In this paper, we propose MCeT, the first fully automated
+tool to evaluate the correctness of a behavioral model, sequence
+diagrams in particular, against its corresponding requirements
+text and produce a list of issues that the model has. We utilize
+LLMs for the correctness evaluation tasks as they have shown
+outstanding natural language understanding ability. However,
+we show that directly asking an LLM to compare a diagram
+to requirements finds less than 35% of issues that experienced
+engineers can find. We propose to supplement the direct check
+with a fine-grained, multi-perspective approach; we split the
+diagram into atomic, non-divisible interactions, and split the
+requirements text into atomic, self-contained items. We com-
+pare the diagram with atomic requirements and each diagram-
+atom with the requirements. We also propose a self-consistency
+checking approach that combines perspectives to mitigate LLM
+hallucinated issues. Our combined approach improves upon the
+precision of the direct approach from 0.58 to 0.81 in a dataset of
+real requirements. Moreover, the approach finds 90% more issues
+that the experienced engineers found than the direct approach,
+and reports an average of 6 new issues per diagram.
+
+
 # ViaLin: Path-Aware Dynamic Taint Analysis for Android
 
 
