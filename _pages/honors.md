@@ -12,10 +12,10 @@ author_profile: true
 - Received the Graduate Support Initiative (GSI) from The University of British Columbia, Canada.
 
 - Distinguished paper award at ICST 2021:
-<iframe src="../files/ICST21_best_paper.pdf" width="500"></iframe>
+<iframe src="../files/ICST21_best_paper.pdf" height="400" width="500"></iframe>
 
 - Distinguished paper award at MODELS 2021:
-<iframe src="../files/MODELS25_best_paper.pdf" width="500"></iframe>
+<iframe src="../files/MODELS25_best_paper.pdf" height="400" width="500"></iframe>
 
 # Honors
 - Ranked the second amongst all 332 Bachelors Students of the Electrical and Computer Engineering Department, Alexandria University, 2014.
