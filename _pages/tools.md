@@ -42,6 +42,7 @@ real requirements. Moreover, the approach finds 90% more issues
 that the experienced engineers found than the direct approach,
 and reports an average of 6 new issues per diagram.
 
+---
 
 # ViaLin: Path-Aware Dynamic Taint Analysis for Android
 
