@@ -22,6 +22,8 @@ redirect_from:
 
 ☝️ Check the navigation bar above for more!
 
+Latest blog post on [semantics and systems](https://khaledea.substack.com/): <div class="substack-post-embed"><p lang="en">Spec Driven Development: Fixing the AI Coding Pipeline with OpenSpec and Claude Code by Khaled Ahmed, PhD</p><p>Stop letting AI guess your architecture. Start orchestrating it with Spec-Driven Development</p><a data-post-link href="https://khaledea.substack.com/p/spec-driven-development-fixing-the">Read on Substack</a></div><script async src="https://substack.com/embedjs/embed.js" charset="utf-8"></script>
+
 <!--
 <div class="iframe-container">
     <iframe src="https://www.revealedquran.com/embed/daily" width="100%" height="300" frameborder="0" style="border-radius: 1rem; background: transparent;"></iframe>
