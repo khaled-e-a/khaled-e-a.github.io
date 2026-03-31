@@ -24,7 +24,7 @@ redirect_from:
 
 Latest blog post on [semantics and systems](https://khaledea.substack.com/):
 
-<div class="substack-post-embed"><p lang="en">Spec Driven Development: Fixing the AI Coding Pipeline with OpenSpec and Claude Code by Khaled Ahmed, PhD</p><p>Stop letting AI guess your architecture. Start orchestrating it with Spec-Driven Development</p><a data-post-link href="https://khaledea.substack.com/p/spec-driven-development-fixing-the">Read on Substack</a></div><script async src="https://substack.com/embedjs/embed.js" charset="utf-8"></script>
+<div class="substack-post-embed"><p lang="en">AI-Driven Development with OpenSpec: A Step-by-Step Walkthrough by Khaled Ahmed, PhD</p><p>Building a budget tracker from proposal to archive, one artifact at a time</p><a data-post-link href="https://khaledea.substack.com/p/ai-driven-development-with-openspec">Read on Substack</a></div><script async src="https://substack.com/embedjs/embed.js" charset="utf-8"></script>
 
 <!--
 <div class="iframe-container">
