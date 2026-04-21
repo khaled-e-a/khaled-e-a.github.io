@@ -7,6 +7,10 @@ author_profile: true
 
 **Visit and subscribe to the blog from here: [Semantics & Systems](https://khaledea.substack.com/)**
 
+<div class="substack-post-embed"><p lang="en">The 64.41 Ceiling: What AlphaEval Actually Measures (and Why Every Agent Eval Hits a Wall) by Khaled Ahmed, PhD</p><p>Why production environments shatter lab benchmarks, and how to fix your evals.</p><a data-post-link href="https://khaledea.substack.com/p/the-6441-ceiling-what-alphaeval-actually">Read on Substack</a></div>
+
+<div class="substack-post-embed"><p lang="en">Catching AI Drifts: Program Analysis in Agentic Workflows by Khaled Ahmed, PhD</p><p>Using program analysis to verify AI-generated code against OpenSpec requirements</p><a data-post-link href="https://khaledea.substack.com/p/catching-ai-drifts-program-analysis">Read on Substack</a></div>
+
 <div class="substack-post-embed"><p lang="en">AI-Driven Development with OpenSpec: A Step-by-Step Walkthrough by Khaled Ahmed, PhD</p><p>Building a budget tracker from proposal to archive, one artifact at a time</p><a data-post-link href="https://khaledea.substack.com/p/ai-driven-development-with-openspec">Read on Substack</a></div>
 
 
