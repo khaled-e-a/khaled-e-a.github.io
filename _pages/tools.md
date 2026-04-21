@@ -42,6 +42,10 @@ real requirements. Moreover, the approach finds 90% more issues
 that the experienced engineers found than the direct approach,
 and reports an average of 6 new issues per diagram.
 
+If you use this tool, please cite:
+
+**Khaled Ahmed**, Jialing Song, Boqi Chen, Ou Wei, Bingzhou Zheng. [MCeT: Behavioral Model Correctness Evaluation using Large Language Models](https://arxiv.org/abs/2508.00630). ACM / IEEE 28th International Conference on Model Driven Engineering Languages and Systems (MODELS), **Distinguished Paper Award**, 2025 (25% acceptance rate). <[Code](https://github.com/Huawei-TTE/MCeT)>
+
 ---
 
 # ViaLin: Path-Aware Dynamic Taint Analysis for Android

@@ -14,7 +14,7 @@ author_profile: true
 - Distinguished paper award at ICST 2021:
 <iframe src="../files/ICST21_best_paper.pdf" height="400" width="500"></iframe>
 
-- Distinguished paper award at MODELS 2021:
+- Distinguished paper award at MODELS 2025:
 <iframe src="../files/MODELS25_best_paper.pdf" height="400" width="500"></iframe>
 
 # Honors
