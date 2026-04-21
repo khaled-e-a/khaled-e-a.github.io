@@ -22,6 +22,8 @@ author_profile: true
 
 <div class="substack-post-embed"><p lang="en">Where To Trust LLMs in the Program Analysis Pipeline by Khaled Ahmed, PhD</p><p>Reflections from my thesis defense on keeping correctness with analysis and using models for interpretation.</p><a data-post-link href="https://khaledea.substack.com/p/where-to-trust-llms-in-the-program">Read on Substack</a></div><script async src="{{ site.url }}{{ site.baseurl }}/assets/js/substack-embed-fix.js" charset="utf-8"></script>
 
+<iframe src="https://khaledea.substack.com/embed" width="480" height="320" style="border: 1px solid #EEE; background: white" frameborder="0" scrolling="no"></iframe>
+
 **Older posts:**
 - [adaptive-testing-tools: a small Python library for Adaptive Random Testing](https://khaledea.substack.com/p/adaptive-testing-tools-a-small-python)
 - [Testing Tool-Calling LLMs with Adaptive Random Inputs](https://khaledea.substack.com/p/testing-tool-calling-llms-with-adaptive)

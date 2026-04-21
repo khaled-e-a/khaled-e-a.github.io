@@ -26,8 +26,6 @@ Latest blog post on [semantics and systems](https://khaledea.substack.com/):
 
 <div class="substack-post-embed"><p lang="en">The 64.41 Ceiling: What AlphaEval Actually Measures (and Why Every Agent Eval Hits a Wall) by Khaled Ahmed, PhD</p><p>Why production environments shatter lab benchmarks, and how to fix your evals.</p><a data-post-link href="https://khaledea.substack.com/p/the-6441-ceiling-what-alphaeval-actually">Read on Substack</a></div><script async src="https://substack.com/embedjs/embed.js" charset="utf-8"></script>
 
-<iframe src="https://khaledea.substack.com/embed" width="480" height="320" style="border: 1px solid #EEE; background: white" frameborder="0" scrolling="no"></iframe>
-
 
 <!--
 <div class="iframe-container">
