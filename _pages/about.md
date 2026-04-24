@@ -22,6 +22,13 @@ redirect_from:
 
 ☝️ Check the navigation bar above for more!
 
+---
+
+**📚 Book recommendation:** [read it and let's have a chat over it!](https://www.sapienceinstitute.org/wp-content/uploads/2026/01/Is-Muhammad-Truly-a-Prophet-of-God-Dr.-Sami-Ameri-Sapience-Institute.pdf)
+
+
+---
+
 Latest blog post on [semantics and systems](https://khaledea.substack.com/):
 
 <div class="substack-post-embed"><p lang="en">The 64.41 Ceiling: What AlphaEval Actually Measures (and Why Every Agent Eval Hits a Wall) by Khaled Ahmed, PhD</p><p>Why production environments shatter lab benchmarks, and how to fix your evals.</p><a data-post-link href="https://khaledea.substack.com/p/the-6441-ceiling-what-alphaeval-actually">Read on Substack</a></div><script async src="https://substack.com/embedjs/embed.js" charset="utf-8"></script>
@@ -31,6 +38,3 @@ Latest blog post on [semantics and systems](https://khaledea.substack.com/):
 <div class="iframe-container">
     <iframe src="https://www.revealedquran.com/embed/daily" width="100%" height="300" frameborder="0" style="border-radius: 1rem; background: transparent;"></iframe>
 </div> -->
-
-✋ Before you leave, checkout this website, [lots of cool info](https://www.miracles-of-quran.com/).
-
